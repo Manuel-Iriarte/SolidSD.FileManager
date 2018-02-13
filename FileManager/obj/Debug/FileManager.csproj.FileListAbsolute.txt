@@ -1,0 +1,6 @@
+c:\users\miriarte\source\repos\SolidSD.FileManager\FileManager\bin\Debug\FileManager.dll
+c:\users\miriarte\source\repos\SolidSD.FileManager\FileManager\bin\Debug\FileManager.pdb
+c:\users\miriarte\source\repos\SolidSD.FileManager\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+c:\users\miriarte\source\repos\SolidSD.FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+c:\users\miriarte\source\repos\SolidSD.FileManager\FileManager\obj\Debug\FileManager.dll
+c:\users\miriarte\source\repos\SolidSD.FileManager\FileManager\obj\Debug\FileManager.pdb

@@ -1,0 +1,5 @@
+c:\users\miriarte\source\repos\SolidSD.FileManager\FileManager\bin\Release\FileManager.dll
+c:\users\miriarte\source\repos\SolidSD.FileManager\FileManager\bin\Release\FileManager.pdb
+c:\users\miriarte\source\repos\SolidSD.FileManager\FileManager\obj\Release\FileManager.csproj.CoreCompileInputs.cache
+c:\users\miriarte\source\repos\SolidSD.FileManager\FileManager\obj\Release\FileManager.dll
+c:\users\miriarte\source\repos\SolidSD.FileManager\FileManager\obj\Release\FileManager.pdb
